@@ -1,0 +1,5 @@
+GRID 1
+; One-cell path, cost zero, one counted queue removal, percentage gap undefined.
+START 0 0
+GOAL 0 0
+1

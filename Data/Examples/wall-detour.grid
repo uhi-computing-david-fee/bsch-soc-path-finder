@@ -1,0 +1,11 @@
+GRID 1
+; The wall forces a detour through the bottom opening. No corner cutting.
+START 1 1
+GOAL 1 7
+1111#1111
+1111#1111
+1111#1111
+1111#1111
+1111#1111
+111111111
+111111111

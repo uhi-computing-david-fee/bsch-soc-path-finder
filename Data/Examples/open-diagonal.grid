@@ -1,0 +1,7 @@
+GRID 1
+; Validation: optimum = 2 * sqrt(2). Two diagonal moves.
+START 0 0
+GOAL 2 2
+111
+111
+111
